@@ -1,27 +1,9 @@
 # 👩🏻‍💻 Joanthan Almeida
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Jonathan Almeida, tenho 23 anos e moro em São Caetano Do Sul., tenho alguns cursos que fiz de Hardware, Software e Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USCS. Sou apaixonado por tecnologia desde pequeno, busco sempre me aprimorar e conhecer ainda mais sobre tecnologia.
 
-
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
