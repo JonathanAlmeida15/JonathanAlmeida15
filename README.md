@@ -33,7 +33,7 @@ Me chamo Jonathan Almeida, tenho 23 anos e moro em São Caetano Do Sul, tenho al
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />  
 <img
-align="left"
+    align="left"
     alt="JAVA"
     title="JAVA"
     width="30px" 
