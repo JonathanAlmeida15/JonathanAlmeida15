@@ -118,7 +118,7 @@ align="left"
       align="left" 
       alt="GitHub Stats" 
       height="300" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAlmeida15&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAlmeida15&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github-readme-stats.vercel.app/api?username=JonathanAlmeida15&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)"  
   />
 
 </p>
